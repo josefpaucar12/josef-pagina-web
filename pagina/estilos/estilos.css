@@ -1,0 +1,127 @@
+#icono{
+font-size: 50px;
+}
+#contenedor{
+	width: 95%;
+	max-width: 1000px;
+	margin: auto;
+	width: 2000px;
+	height: 100px;
+	border:1px solid white;
+	text-shadow: 0.5px;
+}
+#contenedor nav ul{
+	list-style: none;
+	overflow: hidden;
+}
+#contenedor nav ul li{
+	float: left;	
+}
+#contenedor nav ul li a{
+	display:block;
+	padding: 20px;
+	color: black;
+	text-decoration: none;	
+	text-shadow: 0.5px;
+}
+#contenedor nav ul li a hover{
+background: #E1E1E1;	
+}
+#sitio{
+	background:#3491EE;
+	border-radius: 100px;
+}
+#espacio{
+	right: 100px;
+}
+#titulo{
+	width: 95%;
+	max-width: 1000px;
+	margin: auto;
+	width: 5000px;
+	height: 100px;
+	border:1px solid white;
+}
+#titulo ul{
+	list-style: none;
+	overflow: hidden;
+}
+#titulo ul li{
+	float: left;	
+}
+#titulo ul li a{
+	display:block;
+	padding: 20px;
+	color: black;
+	text-decoration: none;	
+}
+#titulo > li{
+		float: left;
+}
+#titulo ul li a hover{
+background: #E1E1E1;	
+}
+#inicio{
+	background:white;
+	width: 300px;
+	height: 300px;
+	float: left;
+	border-color: 0.5px solid #A7A7A7;  
+}
+#respuesta{
+	background:white;
+	width: 600px;
+	height: 600px;
+	float: left;
+	border-color: 0.5px solid #A7A7A7;
+}
+#primero{
+	width: 600px;
+	height: 600px;
+	float: left;
+	background: white;
+	border-color:1px solid silver;
+}
+#segundo{
+	width: 600px;
+	height: 600px;
+	float: left;
+	background: white;
+	border-color:1px solid silver;
+}
+#tercero{
+	width: 600px;
+	height: 600px;
+	float: left;
+	background: white;
+	border-color:1px solid silver;
+}
+#final{
+	width: 100px;
+	height: 100px;
+}
+#jp{
+	border-radius: 0px;
+	border-color: 1px solid green;
+	cursor: pointer;
+    margin:auto;
+    display: block;
+    text-decoration: none;
+}
+#final nav ul{
+	list-style: none;
+	overflow: hidden;
+}
+#final nav ul li{
+	float: left;	
+}
+#final nav ul li a{
+	display:block;
+	padding: 20px;
+	color: black;
+	text-decoration: none;	
+	text-shadow: 0.5px;
+}
+#final nav ul li a hover{
+background: #E1E1E1;	
+}
